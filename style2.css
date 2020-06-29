@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    color: lightgoldenrodyellow;
+    position: 
+    ;
+}
+#page{position: relative;left: 450px;
+
+
+}
+
+footer{position: relative;left: -100px;
+top: 10px;}
+header{width: 1366px;height:100px ;
+ position: relative; top: -20px;right: 0px;}
+aside{
+float: right;;
+    width: 55%;
+}
+article{
+    width: 45%; 
+    
+    float: left;
+}
+#a{height: 391px;font-size: 18px;
+  width: 580px;  
+  position: relative;right: 20px;
+}
+#b{
+    height: 391px;
+    font-size: 18px;
+    position: relative;right: 20px;
+    width: 580px; 
+}
+#c{
+    position: relative;right: 20px;
+height: 391px;
+font-size: 18px;
+width: 580px; 
+}
